@@ -1,4 +1,4 @@
-; Window Spy - recreation of the VB6 Window Tools / Window Spy project
+; Window Spy - Inspect native Windows windows and controls, change their text, manage visibility, and generate basic lookup code.
 ; AutoHotkey v1.1+
 #NoEnv
 #SingleInstance Force
